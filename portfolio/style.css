@@ -28,11 +28,10 @@ figcaption {
 
 .social-icon {
     color: black;
-    width: 60px;
+    width: 40px;
     opacity: 80%;
-    margin-top: 50px;
-    margin-right: 15%;
-    padding-top: 0%;
-    padding: 15%;
+    top: 50px;
+    right: -9%;
+    padding: 3%;
     position: relative;
 }
