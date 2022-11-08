@@ -8,19 +8,40 @@ h2 {
     font-family: 'Raleway', sans-serif;
 }
 
+header li
+{
+    display: inline;
+    padding-right: 45px;
+
+}
+
+header li a
+{
+    color: #333;
+    text-decoration: none;
+    padding: 13px;
+    transition: .3s ease;
+}
+header li a:hover
+{
+color: royalblue;
+}
 img {
     background-position: center;
     height: 525px;
-    border-radius: 35%;
-    padding: 5%; 
-    position: relative;
+    border-radius: 2%;
+    padding: 0%; 
+    position: right;
     opacity: .9;
 }
 body {
     background-color: rgb(248, 234, 217);
+    padding: 0%;
+    margin: 0%;
+    overflow-x: hidden;
+    text-align: center;
 }
 figcaption {
-    position: relative;
     top: -350px;
     left: 35%;
     color: black;
@@ -29,9 +50,10 @@ figcaption {
 .social-icon {
     color: black;
     width: 40px;
+    display: inline;
+    padding-right: 45px;
     opacity: 80%;
-    top: 50px;
     right: -9%;
-    padding: 3%;
-    position: relative;
+    padding: 13px;
+    position: ;
 }
