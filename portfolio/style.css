@@ -10,14 +10,17 @@ h2 {
 
 header li
 {
+    color: #fff;
+    opacity: 80%;
     display: inline;
     padding-right: 45px;
+    background-color: ;
 
 }
 
 header li a
 {
-    color: #333;
+    color: #fff;
     text-decoration: none;
     padding: 13px;
     transition: .3s ease;
@@ -32,28 +35,27 @@ img {
     border-radius: 2%;
     padding: 0%; 
     position: right;
-    opacity: .9;
+    opacity: 90%;
 }
 body {
-    background-color: rgb(248, 234, 217);
+    background-color: rgb(34, 37, 35);
     padding: 0%;
     margin: 0%;
     overflow-x: hidden;
     text-align: center;
+
 }
 figcaption {
     top: -350px;
     left: 35%;
-    color: black;
+    color: #fff;
+    opacity: 80%;
 }
 
 .social-icon {
-    color: black;
+    color: #fff;
     width: 40px;
     display: inline;
-    padding-right: 45px;
-    opacity: 80%;
-    right: -9%;
+    opacity: 100%;
     padding: 13px;
-    position: ;
 }
