@@ -25,10 +25,12 @@ header li a
     padding: 13px;
     transition: .3s ease;
 }
+
 header li a:hover
 {
 color: royalblue;
 }
+
 img {
     background-position: center;
     height: 525px;
