@@ -8,8 +8,7 @@ h2 {
     font-family: 'Raleway', sans-serif;
 }
 
-header li
-{
+header li {
     color: #fff;
     opacity: 80%;
     display: inline;
@@ -18,16 +17,14 @@ header li
 
 }
 
-header li a
-{
+header li a {
     color: #fff;
     text-decoration: none;
     padding: 13px;
     transition: .3s ease;
 }
 
-header li a:hover
-{
+header li a:hover {
 color: royalblue;
 }
 
@@ -45,7 +42,6 @@ body {
     margin: 0%;
     overflow-x: hidden;
     text-align: center;
-
 }
 figcaption {
     top: -350px;
