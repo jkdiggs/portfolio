@@ -36,6 +36,7 @@ img {
     position: right;
     opacity: 90%;
 }
+
 body {
     background-color: rgb(34, 37, 35);
     padding: 0%;
@@ -43,6 +44,7 @@ body {
     overflow-x: hidden;
     text-align: center;
 }
+
 figcaption {
     top: -350px;
     left: 35%;
